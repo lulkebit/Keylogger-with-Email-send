@@ -1,2 +1,2 @@
-# Keylogger-with-Email-send
+# Keylogger-with-Email-send (EDUCATIONAL-PURPOSE)
 A keylogger written in python
